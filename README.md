@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex, Apple Developer for about 8 years now 
+- 👋 Hi, I’m Alex, Apple Developer for about 8 years now (Apple platform, not the company =)
 - 👀 I’m interested in designing and implementing clean arcitecture for iOS apps, setting effective CI/CD pipeline, establishing decent practicies and testing pyramid
 - 🌱 I’m currently learning SwiftUI and CoreML, having some 3D tools like Unity and Blender in the bookmarks
 
